@@ -25,14 +25,12 @@
 ## Operating System (운영체제)
 
 - [프로세스와 스레드](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C)
-- CPU 스케줄링
-- 멀티 프로세스와 멀티 스레드
-- 프로세스 스케줄링
-- 동기와 비동기의 차이
-- 프로세스 동기화
-- 메모리 관리 전략
-- 가상 메모리
-- 캐시
+- [CPU 스케줄링](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
+- [데드락]()
+- [프로세스 동기화]()
+- [가상 메모리]()
+- [캐시 아키텍쳐]()
+- 그리고 또..?
 
 
 
