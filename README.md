@@ -26,12 +26,12 @@
 
 - [프로세스와 스레드](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C)
 - [CPU 스케줄링](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
-- [데드락]()
-- [프로세스 동기화]()
-- [프로세스와 스레드의 상태]()
-- [인터럽트]()
-- [가상 메모리]()
-- [캐시 아키텍쳐]()
+- [데드락](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8D%B0%EB%93%9C%EB%9D%BD)
+- [프로세스 동기화](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94)
+- [프로세스와 스레드의 상태](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%ED%83%9C)
+- [인터럽트](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
+- [가상 메모리 - 페이징 기법]()
+- [가상 메모리 - 세그멘테이션 기법]()
 - 그리고 또..?
 
 
@@ -43,5 +43,5 @@
 | -------- | -------- | ----------------------------------------------------- | ---------------------------------------------------- | 
 | 6/30(일)   | 운영체제       | 프로세스와 스레드 | CPU 스케줄링       |
 | 7/4(목)   | 운영체제   | 데드락 | 프로세스 동기화       |
-| 7/7(일)   | 운영체제   | 프로세스 & 스레드 state | 인터럽트       |
+| 7/11(목)   | 운영체제   | 페이징 기법 | 세그멘테이션 기법       |
 
