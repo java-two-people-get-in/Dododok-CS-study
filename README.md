@@ -31,9 +31,12 @@
 - [프로세스 동기화](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94)
 - [프로세스와 스레드의 상태](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%ED%83%9C)
 - [인터럽트](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
-- [가상 메모리 - 페이징 기법]()
-- [가상 메모리 - 세그멘테이션 기법]()
-- 그리고 또..?
+- [페이지 교체 알고리즘](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [디스크 스케줄링 & RAID](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
+
+## Computer Network (컴퓨터네트워크)
+- [OSI 7계층]()
+- [DNS]()
 
 
 
@@ -47,4 +50,4 @@
 | 7/7(일)   | 운영체제   | 프로세스 & 스레드 state | 인터럽트       |
 | 7/11(목)   | 운영체제   | 페이징 기법 | 세그멘테이션 기법       |
 | 7/14(일)   | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 & RAID       |
-| 7/18(목)   | 네트워크   | ? | ?       |
+| 7/18(목)   | 네트워크   | OSI 7계층 | DNS       |
