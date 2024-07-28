@@ -39,6 +39,12 @@
 - [DNS]()
 - [HTTP/HTTPS]()
 - [소켓/CDN/웹캐시]()
+- [TCP/UDP]()
+- [라우팅과 포워딩]()
+- [IPv4 & IPv6]()
+- [IPv4 & IPv6]()
+- [NAT & public ip & private ip]()
+- [CORS & CSRF]()
 
 
 
@@ -56,3 +62,4 @@
 | 7/21(일)   | 네트워크   | HTTP/HTTPS | 소켓 & CDN & 웹캐시       |
 | 7/25(목)   | 네트워크   | TCP/UDP | -       |
 | 7/28(일)   | 네트워크   | 라우팅과 포워딩 | IPv4 & IPv6       |
+| 8/1(목)   | 네트워크   | NAT & public ip & private ip | CORS & CSRF       |
