@@ -16,12 +16,30 @@
 알고리즘과 CS 기초 지식의 이론부터 구현까지, 컴퓨터공학 전공자 및 예비 개발자로서 알아야 할 필수 전공 지식들을 공부하고 기록한 저장소입니다.
 
 
-### Reference
+## 진행상황
 
-- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
-- [Basic Knowledge of Computer Science](https://github.com/Seogeurim/CS-study)
-- 면접을 위한 CS 전공지식 노트
-- 기술 면접 대비 CS 전공 핵심요약집
+| **날짜** | **분야** | **주제 1**                                            | **주제 2**                                           |
+| -------- | -------- | ----------------------------------------------------- | ---------------------------------------------------- | 
+| 6/30(일)   | 운영체제       | 프로세스와 스레드 | CPU 스케줄링       |
+| 7/4(목)   | 운영체제   | 데드락 | 프로세스 동기화       |
+| 7/7(일)   | 운영체제   | 프로세스 & 스레드 state | 인터럽트       |
+| 7/11(목)   | 운영체제   | 페이징 기법 | 세그멘테이션 기법       |
+| 7/14(일)   | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 & RAID       |
+| 7/18(목)   | 네트워크   | OSI 7계층 | DNS       |
+| 7/21(일)   | 네트워크   | HTTP/HTTPS | 소켓 & CDN & 웹캐시       |
+| 7/25(목)   | 네트워크   | TCP/UDP | -       |
+| 7/28(일)   | 네트워크   | 라우팅과 포워딩 | IPv4 & IPv6       |
+| 8/1(목)   | 네트워크   | NAT & public ip & private ip | CORS & CSRF       |
+| 8/4(일)   | 네트워크   | 로드밸런싱 & 게이트웨이 | 이더넷 & LAN & WAN       |
+| 8/8(목)   | 데이터베이스   | 키 & 제약조건 | 정규화     |
+| 8/11(일)   | 데이터베이스   | 트랜잭션 | 동시성제어     |
+| 8/18(일)   | 데이터베이스   | Index | 쿼리 실행 계획     |
+| 8/22(목)   | 자료구조   | 스택, 큐, 해시 | -     |
+| 9/5(목)   | 자료구조   | 트리와 힙 | -   |
+| 9/1(일)   | 복습   | - | -     |
+| 9/5(목)   | 자료구조   | 트리와 힙 | -   |
+
+
 
 ## Operating System (운영체제)
 
@@ -31,6 +49,8 @@
 - [프로세스 동기화](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94)
 - [프로세스와 스레드의 상태](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%83%81%ED%83%9C)
 - [인터럽트](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8)
+- [페이징 기법](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%8E%98%EC%9D%B4%EC%A7%95)
+- [세그멘테이션 기법](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98)
 - [페이지 교체 알고리즘](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [디스크 스케줄링 & RAID](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
 
@@ -49,25 +69,21 @@
 
 
 ## Database (데이터베이스)
+- [키 & 제약조건](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%82%A4%20%26%20%EC%A0%9C%EC%95%BD%EC%A1%B0%EA%B1%B4)
+- [트랜잭션](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+- [정규화](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%A0%95%EA%B7%9C%ED%99%94)
+- [동시성 제어](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4)
+- [인덱스](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MySQL%20%EC%9D%B8%EB%8D%B1%EC%8A%A4)
+- [쿼리 실행 계획](https://github.com/java-two-people-get-in/Dododok-CS-study/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MySQL%20%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%ED%96%89%20%EA%B3%84%ED%9A%8D)
 
-## 진행상황
----
+## Database (데이터베이스)
+- [리스트, 큐, 스택, 해시](https://github.com/java-two-people-get-in/Dododok-CS-study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%99%B8%20.md)
+- [트리와 힙]()
 
-| **날짜** | **분야** | **주제 1**                                            | **주제 2**                                           |
-| -------- | -------- | ----------------------------------------------------- | ---------------------------------------------------- | 
-| 6/30(일)   | 운영체제       | 프로세스와 스레드 | CPU 스케줄링       |
-| 7/4(목)   | 운영체제   | 데드락 | 프로세스 동기화       |
-| 7/7(일)   | 운영체제   | 프로세스 & 스레드 state | 인터럽트       |
-| 7/11(목)   | 운영체제   | 페이징 기법 | 세그멘테이션 기법       |
-| 7/14(일)   | 운영체제   | 페이지 교체 알고리즘 | 디스크 스케줄링 & RAID       |
-| 7/18(목)   | 네트워크   | OSI 7계층 | DNS       |
-| 7/21(일)   | 네트워크   | HTTP/HTTPS | 소켓 & CDN & 웹캐시       |
-| 7/25(목)   | 네트워크   | TCP/UDP | -       |
-| 7/28(일)   | 네트워크   | 라우팅과 포워딩 | IPv4 & IPv6       |
-| 8/1(목)   | 네트워크   | NAT & public ip & private ip | CORS & CSRF       |
-| 8/4(일)   | 네트워크   | 로드밸런싱 & 게이트웨이 | 이더넷 & LAN & WAN       |
-| 8/8(목)   | 데이터베이스   | 키 & 제약조건 | 정규화     |
-| 8/11(일)   | 데이터베이스   | 트랜잭션 | 동시성제어     |
-| 8/18(일)   | 데이터베이스   | Index | 쿼리 실행 계획     |
-| 9/1(일)   | 복습   | 복습 | 복습     |
-| 9/5(목)   | 자료구조   | 트리와 힙 | -   |
+
+### Reference
+
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [Basic Knowledge of Computer Science](https://github.com/Seogeurim/CS-study)
+- 면접을 위한 CS 전공지식 노트
+- 기술 면접 대비 CS 전공 핵심요약집
